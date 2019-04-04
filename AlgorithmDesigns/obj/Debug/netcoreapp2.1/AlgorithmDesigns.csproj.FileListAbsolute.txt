@@ -1,0 +1,11 @@
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/obj/Debug/netcoreapp2.1/AlgorithmDesigns.csprojAssemblyReference.cache
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/obj/Debug/netcoreapp2.1/AlgorithmDesigns.csproj.CoreCompileInputs.cache
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/obj/Debug/netcoreapp2.1/AlgorithmDesigns.AssemblyInfoInputs.cache
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/obj/Debug/netcoreapp2.1/AlgorithmDesigns.AssemblyInfo.cs
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/bin/Debug/netcoreapp2.1/AlgorithmDesigns.deps.json
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/bin/Debug/netcoreapp2.1/AlgorithmDesigns.runtimeconfig.json
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/bin/Debug/netcoreapp2.1/AlgorithmDesigns.runtimeconfig.dev.json
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/bin/Debug/netcoreapp2.1/AlgorithmDesigns.dll
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/bin/Debug/netcoreapp2.1/AlgorithmDesigns.pdb
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/obj/Debug/netcoreapp2.1/AlgorithmDesigns.dll
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns/obj/Debug/netcoreapp2.1/AlgorithmDesigns.pdb

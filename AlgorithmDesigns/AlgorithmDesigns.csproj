@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="PyramidalNumbers\" />
+    <Folder Include="Common\" />
+    <Folder Include="RamanujamNumbers\" />
+    <Folder Include="Chapter3\" />
+    <Folder Include="Chapter3\Exercise2\" />
+    <Folder Include="Chapter3\Exercise13\" />
+    <Folder Include="Chapter3\Exercise16\" />
+    <Folder Include="Chapter3\Exercise21\" />
+    <Folder Include="Chapter3\Exercise22\" />
+    <Folder Include="Chapter3\Exercise23\" />
+    <Folder Include="Chapter3\Exercise26\" />
+    <Folder Include="Chapter3\Exercise28\" />
+    <Folder Include="Chapter4\" />
+    <Folder Include="Chapter4\Exercise37\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Chapter4\Exercise37.cs" />
+  </ItemGroup>
+</Project>

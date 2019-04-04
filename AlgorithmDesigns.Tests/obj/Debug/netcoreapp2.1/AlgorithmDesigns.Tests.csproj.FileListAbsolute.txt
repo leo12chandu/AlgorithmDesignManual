@@ -1,0 +1,17 @@
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/bin/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.deps.json
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/bin/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.runtimeconfig.json
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/bin/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.runtimeconfig.dev.json
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/bin/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.dll
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/bin/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.pdb
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/bin/Debug/netcoreapp2.1/AlgorithmDesigns.dll
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/bin/Debug/netcoreapp2.1/AlgorithmDesigns.pdb
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/obj/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.csprojAssemblyReference.cache
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/obj/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.csproj.CoreCompileInputs.cache
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/obj/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.AssemblyInfoInputs.cache
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/obj/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.AssemblyInfo.cs
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/obj/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.csproj.CopyComplete
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/obj/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.dll
+/Users/leo12_chandu/Projects/AlgorithmDesignManaul/AlgorithmDesigns.Tests/obj/Debug/netcoreapp2.1/AlgorithmDesigns.Tests.pdb
